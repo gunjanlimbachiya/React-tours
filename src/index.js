@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 // import "./Birthday-reminder/birthday-reminder.css";  birthday
-import "./Accordian/accordian.css";
+import "./Carausel/carausel.css";
 
 import App from "./App";
 
